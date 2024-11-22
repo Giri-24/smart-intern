@@ -35,4 +35,4 @@ A Real-Time Chat And Communication App
 
 ## ScreenShots
 
-<img alt="Authentication option screen" width="250px" src="https://github.com/karthikeyan9952/chatconnect/blob/master/screenshots/OnboardingScreen.jpg" />        <img alt="Signup screen" width="250px" src="https://github.com/karthikeyan9952/chatconnect/blob/master/screenshots/SignupScreen.jpg" />     <img alt="Login screen" width="250px" src="https://github.com/karthikeyan9952/chatconnect/blob/master/screenshots/LoginScreen.jpg" />     <img alt="Chat screen" width="250px" src="https://github.com/karthikeyan9952/chatconnect/blob/master/screenshots/ChatScreen.jpg" />   
+<img alt="Authentication option screen" width="250px" src="OnboardingScreen.jpg" >        <img alt="Signup screen" width="250px" src="SignupScreen.jpg" >     <img alt="Login screen" width="250px" src="LoginScreen.jpg" >     <img alt="Chat screen" width="250px" src="ChatScreen.jpg" >   
