@@ -6,10 +6,10 @@ A Real-Time Chat And Communication App
 
 ## TEAM MEMBERS
 - Arvinthsamy (Team Lead)
+- Giri
   Hariram
   Hariharan
-  Giri
-
+  
 
 
 
@@ -35,4 +35,4 @@ A Real-Time Chat And Communication App
 
 ## ScreenShots
 
-<img alt="Authentication option screen" width="250px" src="https://github.com/karthikeyan9952/chatconnect/blob/master/screenshots/OnboardingScreen.jpg" />        <img alt="Signup screen" width="250px" src="https://github.com/karthikeyan9952/chatconnect/blob/master/screenshots/SignupScreen.jpg" />     <img alt="Login screen" width="250px" src="https://github.com/karthikeyan9952/chatconnect/blob/master/screenshots/LoginScreen.jpg" />     <img alt="Chat screen" width="250px" src="https://github.com/karthikeyan9952/chatconnect/blob/master/screenshots/ChatScreen.jpg" />    <img alt="AppInfo screen" width="250px" src="https://github.com/karthikeyan9952/chatconnect/blob/master/screenshots/AppInfoScreen.jpg" />
+<img alt="Authentication option screen" width="250px" src="https://github.com/karthikeyan9952/chatconnect/blob/master/screenshots/OnboardingScreen.jpg" />        <img alt="Signup screen" width="250px" src="https://github.com/karthikeyan9952/chatconnect/blob/master/screenshots/SignupScreen.jpg" />     <img alt="Login screen" width="250px" src="https://github.com/karthikeyan9952/chatconnect/blob/master/screenshots/LoginScreen.jpg" />     <img alt="Chat screen" width="250px" src="https://github.com/karthikeyan9952/chatconnect/blob/master/screenshots/ChatScreen.jpg" />   
